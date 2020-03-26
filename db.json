@@ -1,7 +1,7 @@
 {
   "projects":[
-    {"Date of Start":1, "Team Size":10, "Client Location":"Tokyo", "Status":"Support"},
-    {"Date of Start":5, "Team Size":16, "Client Location":"Boston", "Status":"Support"},
-    {"Date of Start":8, "Team Size":15, "Client Location":"New York", "Status":"Support"}
+    {"Start":1, "Size":10, "Location":"Tokyo", "Status":"Support"},
+    {"Start":5, "Size":16, "Location":"Boston", "Status":"Support"},
+    {"Start":8, "Size":15, "Location":"New York", "Status":"Support"}
   ]
 }

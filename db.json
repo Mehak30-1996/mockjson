@@ -1,7 +1,16 @@
 {
   "projects":[
+    {Project:'Hotel', List:[
     {"Start":1, "Size":10, "Location":"Tokyo", "Status":"Support"},
-    {"Start":5, "Size":16, "Location":"Boston", "Status":"Support"},
-    {"Start":8, "Size":15, "Location":"New York", "Status":"Support"}
   ]
+    },
+    {Project:'Tool', List:[
+      {"Start":5, "Size":16, "Location":"Boston", "Status":"Support"}
+      ]
+    },
+     {Project:'Employee', List:[
+      {"Start":8, "Size":15, "Location":"New York", "Status":"Support"}  
+      ]
+    }
+   ] 
 }

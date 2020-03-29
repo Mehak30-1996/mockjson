@@ -1,7 +1,7 @@
 {
   "projects":[
     {"Project":"Hotel", "List":[
-    {"Start":1, "Size":10, "Location":"Tokyo", "Status":"Support"},
+    {"Start":1, "Size":10, "Location":"Tokyo", "Status":"Support"}
   ]
     },
     {"Project":"Tool", "List":[

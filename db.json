@@ -1,12 +1,12 @@
 {
   "projects":[
-    {"Project":"Hotel", "List":[
+    {"Project":"Hotel Management System", "List":[
     {"Start":1, "Size":10, "Location":"Tokyo", "Status":"Support"}]
     },
-    {"Project":"Tool", "List":[
+    {"Project":"Reporting Tool", "List":[
       {"Start":5, "Size":16, "Location":"Boston", "Status":"Support"}]
     },
-     {"Project":"Employee", "List":[
+     {"Project":"Employee Management System", "List":[
       {"Start":8, "Size":15, "Location":"New York", "Status":"Support"}]
     }
    ] 

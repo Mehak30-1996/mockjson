@@ -10,9 +10,4 @@
       {"Start":"08/02/2020", "Size":15, "Location":"New York", "Status":"Support"}]
     }
    ],
-  "121":[
-    {"Project":"Hotel Management System", "Id":121, "List":[
-    {"Start":"", "Size":"", "Location":"", "Status":""}]
-    }
-    ]
 }

@@ -9,5 +9,5 @@
      {"Project":"Employee Management System", "Id":123, "List":[
       {"Start":"08/02/2020", "Size":15, "Location":"New York", "Status":"Support"}]
     }
-   ],
+   ]
 }
